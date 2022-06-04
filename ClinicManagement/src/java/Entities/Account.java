@@ -11,4 +11,5 @@ package Entities;
  */
 public class Account {
     private int id;
+    private int name;
 }
