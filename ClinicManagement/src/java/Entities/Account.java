@@ -13,4 +13,5 @@ public class Account {
     private int id;
     private int name;
     private int address;
+    private int phone;
 }
