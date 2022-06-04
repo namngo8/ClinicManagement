@@ -10,5 +10,5 @@ package Entities;
  * @author Nam Ngo
  */
 public class Account {
-    
+    private int id;
 }
